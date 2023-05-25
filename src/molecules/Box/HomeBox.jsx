@@ -17,13 +17,13 @@ export default function HomeBox(){
             component="div"
             sx={{ display:'flex', position:'absolute',   fontFamily:'arial',marginLeft:'4rem', marginTop:'13rem',fontWeight:'bold'}}
           > 
-           I am zzzzz
+           I am zzzzz aw nano naa fsflskdjfljsldfsdlkjfljsdljf
            
           </Typography>
           <Typography variant ="h1"  className="neonText"
           sx={{marginTop:'15rem',marginLeft:'59px',position:'absolute'}}
           >
-            Dave Dalimocon
+            Dave Dalimocon Gani
            </Typography>
            <Typography 
            className="neonSub"
