@@ -23,7 +23,7 @@ export default function HomeBox(){
           <Typography variant ="h1"  className="neonText"
           sx={{marginTop:'15rem',marginLeft:'59px',position:'absolute'}}
           >
-            Dave D
+            Dave Dalimocon
            </Typography>
            <Typography 
            className="neonSub"
