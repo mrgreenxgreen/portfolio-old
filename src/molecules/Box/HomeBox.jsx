@@ -17,7 +17,7 @@ export default function HomeBox(){
             component="div"
             sx={{ display:'flex', position:'absolute',   fontFamily:'arial',marginLeft:'4rem', marginTop:'13rem',fontWeight:'bold'}}
           >
-           Im
+           I am
            
           </Typography>
           <Typography variant ="h1"  className="neonText"
